@@ -105,7 +105,7 @@ export const Formulario = ({onChange, handleErrors}) => {
 				variant="primary"
 				type="submit"
 			>
-				Submit
+				Registro
 			</Button>
 		</Form>
   );
